@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Cinzel', serif;
+  background-color: #2f2a24;
+  color: #e0d6b9;
+}
+
+.scroll-bg {
+  background-image: url('parchment-texture.jpg'); /* 양피지 배경 */
+  background-size: cover;
+  padding: 50px 0;
+}
+
+.page {
+  max-width: 700px;
+  margin: auto;
+  background-color: rgba(47, 42, 36, 0.95);
+  padding: 40px;
+  border: 4px solid #7b613e;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #00000066;
+}
+
+h1, h2 {
+  text-align: center;
+  border-bottom: 2px solid #aa8e5f;
+  padding-bottom: 10px;
+}
+
+.char-img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  border: 2px solid #aa8e5f;
+  border-radius: 5px;
+}
