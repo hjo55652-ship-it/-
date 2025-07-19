@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>캐릭터 소개 - 아이리나</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="scroll-bg">
+    <div class="page">
+      <h1>미나 카엘리스 (Mina Caelis), 영원한 달의 인도</h1>
+      <img src="irina.png" alt="아이리나 캐릭터 이미지" class="char-img" />
+
+      <section>
+        <h2>기본 정보</h2>
+        <p><strong>종족:</strong> 천족</p>
+        <p><strong>나이:</strong> 신체나이 20세 실제나이 불명</p>
+        <p><strong>직업:</strong> 마법사 (치유 신 계열)</p>
+      </section>
+
+      <section>
+        <h2>성격</h2>
+        <p>온화하고 상냥하며 약간 천진난만 합니다.</p>
+      </section>
+
+      <section>
+        <h2>배경 이야기</h2>
+        <p>
+          북부의 얼어붙은 계곡에서 태어나, 어린 시절부터 마법에 눈을 떴다.
+          얼음 용과 계약한 이후, 서리의 힘을 얻고 고대의 지식을 수호하고 있다.
+        </p>
+      </section>
+    </div>
+  </div>
+</body>
+</html>
